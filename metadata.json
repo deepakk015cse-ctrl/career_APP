@@ -1,0 +1,6 @@
+{
+  "name": "DevNexus - Developer Career & Professional Network",
+  "description": "Professional career and developer networking platform combining portfolio showcase, coding statistics, job opportunities, and peer networking for engineers and tech recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
